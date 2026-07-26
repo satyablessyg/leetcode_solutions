@@ -12,6 +12,7 @@ C/
 │   ├── 0001-Two-Sum/
 │   ├── 0036-Valid-Sudoko/
 │   ├── 0049-Group-Anagram/
+│   ├── 0128-Longest-Consecutive-Sequence/
 │   ├── 0217-Contains-Duplicate/
 │   ├── 0238-Product-of-Array-Except-Self/
 │   └── 0347-Top-k-Frequent-Elements/
@@ -31,6 +32,7 @@ Auto-generated from the folder structure — run `python3 generate_readme_table.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays |
 | 36 | [Valid Sudoko](https://leetcode.com/problems/valid-sudoko/) | Arrays |
 | 49 | [Group Anagram](https://leetcode.com/problems/group-anagram/) | Arrays |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Arrays |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Arrays |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings |
