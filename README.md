@@ -17,7 +17,10 @@ C/
 │   ├── 0238-Product-of-Array-Except-Self/
 │   └── 0347-Top-k-Frequent-Elements/
 └── Strings/
-    └── 0242-Valid-Anagram/
+|    └── 0242-Valid-Anagram/
+├── Two Pointers/
+│   ├── 0015-3Sum/
+
 ```
 
 Each problem folder contains a single `solution.c` file with a working solution, including a `main()` for a few that reads input and calls the solution function so it can be compiled and run standalone.
@@ -30,6 +33,7 @@ Auto-generated from the folder structure — run `python3 generate_readme_table.
 | # | Problem | Topic |
 |---|---------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays |
+| 15 | [3Sum](https://leetcode.com/problems/3Sum/) | Two Pointers |
 | 36 | [Valid Sudoko](https://leetcode.com/problems/valid-sudoko/) | Arrays |
 | 49 | [Group Anagram](https://leetcode.com/problems/group-anagram/) | Arrays |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Arrays |
