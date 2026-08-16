@@ -16,6 +16,7 @@ C/
 │   ├── 0217-Contains-Duplicate/
 │   ├── 0238-Product-of-Array-Except-Self/
 │   └── 0347-Top-k-Frequent-Elements/
+│   └── 1464-Maximum-Product-of-Two-Elements-in-an-Array/
 └── Strings/
 |    └── 0242-Valid-Anagram/
 ├── Two Pointers/
@@ -41,6 +42,7 @@ Auto-generated from the folder structure — run `python3 generate_readme_table.
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Arrays |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings |
 | 347 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Arrays |
+| 347 | [Maximum Product of Two Elemnts in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Arrays |
 <!-- PROBLEMS_TABLE_END -->
 
 ## Running a Solution
