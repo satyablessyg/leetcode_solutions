@@ -7,20 +7,29 @@ My solutions to [LeetCode](https://leetcode.com/) problems, written in C. This r
 Solutions are organized by topic, then by problem (numbered and named to match LeetCode):
 
 ```
-C/
-├── Arrays/
-│   ├── 0001-Two-Sum/
-│   ├── 0036-Valid-Sudoko/
-│   ├── 0049-Group-Anagram/
-│   ├── 0128-Longest-Consecutive-Sequence/
-│   ├── 0217-Contains-Duplicate/
-│   ├── 0238-Product-of-Array-Except-Self/
-│   └── 0347-Top-k-Frequent-Elements/
-│   └── 1464-Maximum-Product-of-Two-Elements-in-an-Array/
-└── Strings/
-|    └── 0242-Valid-Anagram/
-├── Two Pointers/
-│   ├── 0015-3Sum/
+leetcode_solutions/
+│
+├── C/
+   ├── Arrays/
+   │   ├── 0001-Two-Sum/
+   │   ├── 0128-Longest-Consecutive-Sequence/
+   │   ├── 0169-Majority-Element/
+   │   ├── 0217-Contains-Duplicate/
+   │   ├── 0238-Product-of-Array-Except-Self/
+   │   └── 1464-Maximum_Product_of_Two_Elements_in_an_Array/
+   │
+   ├── Strings/
+   │   └── 0242-Valid-Anagram/
+   │
+   └── Two_Pointers/
+       ├── 0011-Container-With-Most-Water/
+       ├── 0015-3Sum/
+       ├── 0042-Trapping-Rain-Water/
+       ├── 0075-Sort-Colors/
+       ├── 0167-Two-Sum-II/
+       └── 0283-Move-Zeroes/
+
+
 
 ```
 
@@ -43,6 +52,11 @@ Auto-generated from the folder structure — run `python3 generate_readme_table.
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Strings |
 | 347 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Arrays |
 | 347 | [Maximum Product of Two Elemnts in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Arrays |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Two Pointers |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Two Pointers |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two Pointers |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Two Pointers |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two Pointers |
 <!-- PROBLEMS_TABLE_END -->
 
 ## Running a Solution
